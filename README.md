@@ -8,4 +8,10 @@ https://github.com/AlexanderB1578/Konspekti/tree/main/%D0%BA%D0%BE%D0%BD%D1%81%D
 
 ## Memchiki
 
-![](Babka_Kopiruet_Trolface.jpg)
+![Babka_Kopiruet_Trolface](https://github.com/AlexanderB1578/Konspekti/blob/main/%D1%84%D0%BE%D1%82%D0%BE/Babka_Kopiruet_Trolface.jpg)
+
+![Denis_Utka](https://github.com/AlexanderB1578/Konspekti/blob/main/%D1%84%D0%BE%D1%82%D0%BE/Denis_Utka.jpg)
+
+![Nikita_Guy](https://github.com/AlexanderB1578/Konspekti/blob/main/%D1%84%D0%BE%D1%82%D0%BE/Nikita_Guy.jpg)
+
+![Tarhun](https://github.com/AlexanderB1578/Konspekti/blob/main/%D1%84%D0%BE%D1%82%D0%BE/Tarhun.jpg)
